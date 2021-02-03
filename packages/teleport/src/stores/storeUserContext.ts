@@ -25,18 +25,6 @@ export default class StoreUserContext extends Store<UserContext> {
     return this.state.username;
   }
 
-  getRequestableRoles() {
-    return this.state.requestableRoles;
-  }
-
-  getSuggestedReviewers() {
-    return this.state.suggestedReviewers;
-  }
-
-  getApprovalThreshold() {
-    return this.state.approvalThreshold;
-  }
-
   getEventAccess() {
     return this.state.acl.events;
   }
@@ -69,11 +57,19 @@ export default class StoreUserContext extends Store<UserContext> {
     return this.state.acl.tokens;
   }
 
+  getAccessStrategy() {
+    return this.state.accessStrategy;
+  }
+
   getWorkflowAccess() {
     return this.state.acl.accessRequests;
   }
 
-  getAccessStrategy() {
-    return this.state.accessStrategy;
+  getRequestableRoles() {
+    return this.state.accessCapabilities.requestableRoles;
+  }
+
+  getSuggestedReviewers() {
+    return this.state.accessCapabilities.suggestedReviewers;
   }
 }
