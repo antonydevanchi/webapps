@@ -217,19 +217,19 @@ exports[`support Enterprise 1`] = `
         </div>
         <a
           class="c8"
-          href="https://goteleport.com/teleport/docs/quickstart?product=teleport&version=e_5.0.0"
+          href="https://goteleport.com/teleport/docs/quickstart?product=teleport&version=e_4.4.0-dev"
         >
           Quickstart Guide
         </a>
         <a
           class="c8"
-          href="https://goteleport.com/teleport/docs/user-manual?product=teleport&version=e_5.0.0"
+          href="https://goteleport.com/teleport/docs/user-manual?product=teleport&version=e_4.4.0-dev"
         >
           tsh User Guide
         </a>
         <a
           class="c8"
-          href="https://goteleport.com/teleport/docs/admin-guide?product=teleport&version=e_5.0.0"
+          href="https://goteleport.com/teleport/docs/admin-guide?product=teleport&version=e_4.4.0-dev"
         >
           Admin Guide
         </a>
@@ -241,7 +241,7 @@ exports[`support Enterprise 1`] = `
         </a>
         <a
           class="c8"
-          href="https://goteleport.com/teleport/docs/faq?product=teleport&version=e_5.0.0"
+          href="https://goteleport.com/teleport/docs/faq?product=teleport&version=e_4.4.0-dev"
         >
           FAQ
         </a>
@@ -270,19 +270,19 @@ exports[`support Enterprise 1`] = `
         </div>
         <a
           class="c8"
-          href="https://goteleport.com/teleport/docs/admin-guide?product=teleport&version=e_5.0.0#troubleshooting"
+          href="https://goteleport.com/teleport/docs/admin-guide?product=teleport&version=e_4.4.0-dev#troubleshooting"
         >
           Monitoring Teleport
         </a>
         <a
           class="c8"
-          href="https://goteleport.com/teleport/docs/admin-guide?product=teleport&version=e_5.0.0#troubleshooting"
+          href="https://goteleport.com/teleport/docs/admin-guide?product=teleport&version=e_4.4.0-dev#troubleshooting"
         >
           Collecting Debug Data
         </a>
         <a
           class="c8"
-          href="https://goteleport.com/teleport/docs/admin-guide?product=teleport&version=e_5.0.0#troubleshooting"
+          href="https://goteleport.com/teleport/docs/admin-guide?product=teleport&version=e_4.4.0-dev#troubleshooting"
         >
           Troubleshooting FAQ
         </a>
@@ -346,7 +346,7 @@ exports[`support Enterprise 1`] = `
       <div
         class="c13"
       >
-        test cluster name
+        aws
       </div>
     </div>
     <div
@@ -362,7 +362,7 @@ exports[`support Enterprise 1`] = `
       <div
         class="c13"
       >
-        5.0.0
+        4.4.0-dev
       </div>
     </div>
     <div
@@ -378,7 +378,7 @@ exports[`support Enterprise 1`] = `
       <div
         class="c13"
       >
-        test/public/url
+        localhost
       </div>
     </div>
     <div
@@ -394,7 +394,7 @@ exports[`support Enterprise 1`] = `
       <div
         class="c13"
       >
-        50
+        1
       </div>
     </div>
   </div>
@@ -612,19 +612,19 @@ exports[`support OSS 1`] = `
         </div>
         <a
           class="c8"
-          href="https://goteleport.com/teleport/docs/quickstart?product=teleport&version=oss_5.0.0"
+          href="https://goteleport.com/teleport/docs/quickstart?product=teleport&version=oss_4.4.0-dev"
         >
           Quickstart Guide
         </a>
         <a
           class="c8"
-          href="https://goteleport.com/teleport/docs/user-manual?product=teleport&version=oss_5.0.0"
+          href="https://goteleport.com/teleport/docs/user-manual?product=teleport&version=oss_4.4.0-dev"
         >
           tsh User Guide
         </a>
         <a
           class="c8"
-          href="https://goteleport.com/teleport/docs/admin-guide?product=teleport&version=oss_5.0.0"
+          href="https://goteleport.com/teleport/docs/admin-guide?product=teleport&version=oss_4.4.0-dev"
         >
           Admin Guide
         </a>
@@ -636,7 +636,7 @@ exports[`support OSS 1`] = `
         </a>
         <a
           class="c8"
-          href="https://goteleport.com/teleport/docs/faq?product=teleport&version=oss_5.0.0"
+          href="https://goteleport.com/teleport/docs/faq?product=teleport&version=oss_4.4.0-dev"
         >
           FAQ
         </a>
@@ -665,19 +665,19 @@ exports[`support OSS 1`] = `
         </div>
         <a
           class="c8"
-          href="https://goteleport.com/teleport/docs/admin-guide?product=teleport&version=oss_5.0.0#troubleshooting"
+          href="https://goteleport.com/teleport/docs/admin-guide?product=teleport&version=oss_4.4.0-dev#troubleshooting"
         >
           Monitoring Teleport
         </a>
         <a
           class="c8"
-          href="https://goteleport.com/teleport/docs/admin-guide?product=teleport&version=oss_5.0.0#troubleshooting"
+          href="https://goteleport.com/teleport/docs/admin-guide?product=teleport&version=oss_4.4.0-dev#troubleshooting"
         >
           Collecting Debug Data
         </a>
         <a
           class="c8"
-          href="https://goteleport.com/teleport/docs/admin-guide?product=teleport&version=oss_5.0.0#troubleshooting"
+          href="https://goteleport.com/teleport/docs/admin-guide?product=teleport&version=oss_4.4.0-dev#troubleshooting"
         >
           Troubleshooting FAQ
         </a>
@@ -741,7 +741,7 @@ exports[`support OSS 1`] = `
       <div
         class="c13"
       >
-        test cluster name
+        aws
       </div>
     </div>
     <div
@@ -757,7 +757,7 @@ exports[`support OSS 1`] = `
       <div
         class="c13"
       >
-        5.0.0
+        4.4.0-dev
       </div>
     </div>
     <div
@@ -773,7 +773,7 @@ exports[`support OSS 1`] = `
       <div
         class="c13"
       >
-        test/public/url
+        localhost
       </div>
     </div>
     <div
@@ -789,7 +789,7 @@ exports[`support OSS 1`] = `
       <div
         class="c13"
       >
-        50
+        1
       </div>
     </div>
   </div>
